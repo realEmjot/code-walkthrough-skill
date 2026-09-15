@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code walkthrough"
+  short_description: "Understand existing code, one guided step at a time"
+  default_prompt: "Use $code-walkthrough to scope the code I want to understand, establish my familiarity with its technologies and concepts, and guide me through it one manageable chunk at a time with room for questions."
